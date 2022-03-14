@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: streamlit-visgraph
+Version: 0.2.3
+Summary: Interactive Vis Graph for Streamlit based on Vis Network
+Home-page: https://github.com/tbhuy/streamlit_visgraph
+Author: Ba Huy Tran
+Author-email: tranbahuy@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/plain
+License-File: LICENSE
+
+UNKNOWN
+
