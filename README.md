@@ -42,4 +42,8 @@ Visualizing a Game of Thrones character network [from pyvis](https://pyvis.readt
     v = visgraph(nodes=nodes, edges=edges, config=options)
 ```
 
+![](https://github.com/tbhuy/streamlit_visgraph/blob/main/examples/example1.png)
+
+Representation of a process
+![](https://github.com/tbhuy/streamlit_visgraph/blob/main/examples/example2.png)
 
